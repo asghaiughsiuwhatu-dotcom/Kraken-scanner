@@ -153,7 +153,7 @@ G2L["17"]["Color"] = Color3.fromRGB(255, 255, 255);
 -- StarterGui.LALOL Hub Backdoor.Frame.Scanner.UIStroke.UIGradient
 G2L["18"] = Instance.new("UIGradient", G2L["17"]);
 G2L["18"]["Rotation"] = 50;
-G2L["18"]["Color"] = ColorSequence.new{ColorSequenceKeypoint.new(0.000, Color3.fromRGB(255, 255, 108)),ColorSequenceKeypoint.new(1.000, Color3.fromRGB(255, 231, 171))};
+G2L["18"]["Color"] = ColorSequence.new{ColorSequenceKeypoint.new(0.000, Color3.fromRGB(255, 127, 80)),ColorSequenceKeypoint.new(1.000, Color3.fromRGB(255, 99, 71))};
 
 -- StarterGui.LALOL Hub Backdoor.Frame.Scanner.UICorner
 G2L["19"] = Instance.new("UICorner", G2L["16"]);
