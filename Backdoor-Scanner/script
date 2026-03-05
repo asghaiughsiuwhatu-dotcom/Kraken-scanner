@@ -148,7 +148,7 @@ G2L["16"]["Name"] = [[Scanner]];
 
 -- StarterGui.LALOL Hub Backdoor.Frame.Scanner.UIStroke
 G2L["17"] = Instance.new("UIStroke", G2L["16"]);
-G2L["17"]["Color"] = Color3.fromRGB(255, 255, 255);
+G2L["17"]["Color"] = Color3.fromRGB(255, 127, 80);
 
 -- StarterGui.LALOL Hub Backdoor.Frame.Scanner.UIStroke.UIGradient
 G2L["18"] = Instance.new("UIGradient", G2L["17"]);
@@ -197,7 +197,7 @@ G2L["1e"]["Color"] = Color3.fromRGB(255, 255, 255);
 -- StarterGui.LALOL Hub Backdoor.Frame.TextLabel.UIStroke.UIGradient
 G2L["1f"] = Instance.new("UIGradient", G2L["1e"]);
 G2L["1f"]["Rotation"] = 50;
-G2L["1f"]["Color"] = ColorSequence.new{ColorSequenceKeypoint.new(0.000, Color3.fromRGB(255, 0, 0)),ColorSequenceKeypoint.new(1.000, Color3.fromRGB(255, 0, 255))};
+G2L["1f"]["Color"] = ColorSequence.new{ColorSequenceKeypoint.new(0.000, Color3.fromRGB(255, 99, 71)),ColorSequenceKeypoint.new(1.000, Color3.fromRGB(255, 69, 0))};
 
 -- StarterGui.LALOL Hub Backdoor.LocalScript
 G2L["20"] = Instance.new("LocalScript", G2L["1"]);
