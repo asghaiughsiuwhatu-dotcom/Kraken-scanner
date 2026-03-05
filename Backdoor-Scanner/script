@@ -29,7 +29,7 @@ G2L["3"]["Color"] = Color3.fromRGB(255, 255, 255);
 -- StarterGui.LALOL Hub Backdoor.Frame.UIStroke.UIGradient
 G2L["4"] = Instance.new("UIGradient", G2L["3"]);
 G2L["4"]["Rotation"] = 50;
-G2L["4"]["Color"] = ColorSequence.new{ColorSequenceKeypoint.new(0.000, Color3.fromRGB(255, 0, 0)),ColorSequenceKeypoint.new(1.000, Color3.fromRGB(255, 0, 255))};
+G2L["4"]["Color"] = ColorSequence.new{ColorSequenceKeypoint.new(0.000, Color3.fromRGB(255, 127, 80)),ColorSequenceKeypoint.new(1.000, Color3.fromRGB(255, 140, 0))};
 
 -- StarterGui.LALOL Hub Backdoor.Frame.UICorner
 G2L["5"] = Instance.new("UICorner", G2L["2"]);
@@ -186,7 +186,7 @@ G2L["1d"]["FontFace"] = Font.new([[rbxassetid://12187365977]], Enum.FontWeight.B
 G2L["1d"]["TextSize"] = 49;
 G2L["1d"]["TextColor3"] = Color3.fromRGB(0, 0, 0);
 G2L["1d"]["Size"] = UDim2.new(0, 460, 0, 50);
-G2L["1d"]["Text"] = [[LALOL Hub Backdoor]];
+G2L["1d"]["Text"] = [[Kraken backdoor scanner]];
 G2L["1d"]["BackgroundTransparency"] = 1;
 G2L["1d"]["Position"] = UDim2.new(0.02169983461499214, 0, 0.025362318381667137, 0);
 
