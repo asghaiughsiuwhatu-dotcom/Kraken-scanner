@@ -1408,7 +1408,7 @@ local function C_20()
 local script = G2L["20"];
 	queueteleport = (syn and syn.queue_on_teleport) or queue_on_teleport or (fluxus and fluxus.queue_on_teleport)
 	if queueteleport then
-		queueteleport("loadstring(game:HttpGet('https://raw.githubusercontent.com/Its-LALOL/LALOL-Hub/main/Backdoor-Scanner/script'))()")
+		queueteleport("loadstring(game:HttpGet('https://github.com/asghaiughsiuwhatu-dotcom/Kraken-scanner/blob/main/Backdoor-Scanner/script'))()")
 	end
 	
 	GUI=script.Parent.Frame
@@ -1448,7 +1448,7 @@ local script = G2L["20"];
 		game:GetService('StarterGui'):SetCore(
 			"SendNotification",
 			{
-				Title = "LALOL Hub Backdoor",
+				Title = "Kraken Backdoor scanner",
 				Duration = 6,
 				Text = text
 			}
